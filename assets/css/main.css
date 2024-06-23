@@ -2818,7 +2818,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #F3AF4A			;
 			color: #c8ece9;
 		}
 
@@ -2981,7 +2981,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #006989;
 			color: #d3d4e4;
 		}
 
@@ -3035,7 +3035,7 @@ input, select, textarea {
 
 				.wrapper.style3 select option {
 					color: #ffffff;
-					background: #505393;
+					background: #006989;
 				}
 
 			.wrapper.style3 input[type="checkbox"] + label,
@@ -3051,7 +3051,7 @@ input, select, textarea {
 			.wrapper.style3 input[type="checkbox"]:checked + label:before,
 			.wrapper.style3 input[type="radio"]:checked + label:before {
 				background: #ffffff;
-				color: #505393;
+				color: #006989;
 			}
 
 			.wrapper.style3 ::-webkit-input-placeholder {
@@ -4001,7 +4001,7 @@ input, select, textarea {
 
 /* tambahan */
 	.team-section {
-		background-color: #F3AF4A		;
+		background-color: #F3AF4A;
 		padding: 50px 0;
 		text-align: center;
 	}
