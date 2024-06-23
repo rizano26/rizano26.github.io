@@ -3886,7 +3886,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		padding: 6em 0 4em 0 ;
+		padding: 1em 0 1em 0 ;
 		background-color: #1d242a;
 		text-align: center;
 	}
@@ -4037,7 +4037,8 @@ input, select, textarea {
 	.team-member p {
 		color: #ffffff;
 		font-size: 16px;
-	}
+	}	
+
 	/* Media query for mobile view */
 @media (max-width: 768px) {
     .team-container {
